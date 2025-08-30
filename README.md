@@ -1,41 +1,78 @@
-# Fashion Sales Analysis Dashboard
+#  👜 Fashion House Sales Dashboard
 
 ## Overview
 
-The Sales Analysis Dashboard is an interactive visualization tool designed to transform raw sales data (2014–2017) into actionable business intelligence. It enables users to explore sales performance, profit margins, discount impact, and customer behavior through dynamic charts, filters, and drill-downs.
+This project presents a **Fashion House Sales Dashboard** designed to
+provide insights into product performance, store activity, sales
+representatives' contributions, and customer purchasing behavior.\
+The dashboard visualizes key metrics across different categories such as
+**bags, shoes, and accessories**, helping stakeholders make data-driven
+decisions to drive growth and profitability.
 
-## Key Features
 
-- Interactive Time-Series Trends: Visualize monthly, quarterly, and yearly sales and profit trajectories. Identify seasonality, growth patterns, and revenue spikes with time sliders and range selectors.
+## 📊 Key Metrics & Insights
 
-- Discount Impact Analysis: Compare before- and after-discount revenue and profit for selected products, regions, or customer segments to evaluate promotional effectiveness.
+-   **Total Quantity Sold**: 62.8K units\
+-   **Total Sales**: \$1.76B\
+-   **Total Cost of Goods (COGS)**: \$1.62B\
+-   **Profit**: \$139.3M\
+-   **Net Sales**: \$1.76B\
+-   **Average Order Value (AOV)**: \$653.4K
 
-- Category & Sub-Category Insights: Filterable bar charts and pie charts showcasing top-performing product categories and sub-categories by sales volume and profit.
 
-- Top Customers & Segments: Leaderboards highlighting the highest-revenue and highest-profit customers. Segment filters (Consumer, Corporate, Home Office) allow targeted analysis.
+## 🔑 Highlights
 
-- Geographic Performance Map: Interactive map view with drill-down to states and cities, revealing regional sales distribution and profit hotspots.
+### 🛍️ Products
 
-- Product Portfolio Explorer: Detailed tables and charts for best-selling, worst-selling, and highest-margin products. Supports search and conditional highlighting for quick decision-making.
+-   **Top Selling Product**: Calf Boots Men -- \$378.5M in sales\
+-   Other strong performers include loafers, mules, and handbags.
 
-- Customizable Dashboard Filters: Multi-select dropdowns for year, region, segment, category, and product. Instant updates to all visualizations for tailored insights.
+### 📂 Product Categories
 
-## What You Can Achieve
+-   **Top Category**: Women Bags -- \$753.5M in sales\
+-   Followed by Men Shoes, Male Bags, and Female Bags.
 
-- Optimize Pricing Strategies: Analyze the real impact of discounts on both revenue and profit to refine promotional campaigns.
+### 🏬 Stores
 
-- Drive Inventory Decisions: Pinpoint high-demand and high-margin products for restocking and plan phase-out of underperformers.
+-   **Top Performing Store**: Freeport -- \$825.3M in sales\
+-   Other contributors: Garden City, Harrison, Holbrook.
 
-- Focus Marketing Efforts: Identify key geographic markets and customer segments with the highest ROI potential to allocate marketing budgets effectively.
+### 👥 Sales Representatives
 
-- Enhance Customer Relationships: Recognize top customers and segment-specific behaviors to tailor engagement strategies and improve loyalty.
+-   **Top Rep**: Farida Ibrahim -- \$825.3M in sales from Freeport\
+-   Other high performers: Winner Sanda (\$701.8M), Felix Ada
+    (\$688.7M), Peter Pan (\$644.5M).
 
-- Monitor Business Health: Track sales and profitability trends at a glance, enabling early detection of underperformance or opportunities for growth.
+### 👤 Customers
 
-## Data Sources
+-   **Top Customer**: Thomas V Mesrve -- \$220.4M spent\
+-   Other notable customers: Theresa Carballo, Marpam T Mearx, Lovella K
+    Sheran, Krysten L Barney.
 
-- Sales Transactions: Raw order data from 2014 to 2017, including unit prices, quantities, discounts, and profit.
+### 📅 Sales Trend
 
-- Customer Details: Segment categorizations and purchase histories.
+-   **Top Month**: December -- \$638.9M in sales\
+-   Strong seasonal effect with sales peaking in the holiday period.
 
-- Geographic Data: Region, state, and city identifiers for spatial analysis.
+## 🖥️ Dashboard Features
+
+-   **Interactive Visualizations**: Sales by product, category, store,
+    rep, and customer.\
+-   **Performance Tracking**: Profitability, order value, and growth
+    indicators.\
+-   **Seasonal Analysis**: Identifies peak sales months and seasonal
+    patterns.
+
+
+
+## 🚀 Use Cases
+
+This dashboard can be used by:
+- **Management** -- to monitor profitability and growth trends.\
+- **Sales Teams** -- to track performance by rep and store.\
+- **Marketing Teams** -- to understand customer behavior and product
+demand.\
+- **Inventory Teams** -- to align stock levels with top-selling
+products.
+
+
